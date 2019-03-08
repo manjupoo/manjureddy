@@ -12,3 +12,14 @@ def fun3(m="mython"):
 	print(m)
 fun3("byeeeee")
 fun3()
+
+
+def fun4(b,c):
+	a=b+c
+	return a
+a=fun4(5,8)
+print("a")
+
+def fun5(m,n):
+	p=m-n
+    return p
